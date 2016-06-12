@@ -20,7 +20,7 @@ This pod is a subclass of UILabel that resizes with a sliding animation.
   s.author           = { 'Charles Thierry' => 'charles.thierry@gmail.com' }
   s.source           = { :git => 'https://github.com/DeRunco/DRGrowingLabel.git', :tag => s.version.to_s }
 
-  s.ios.deployment_target = '8.0'
+  s.ios.deployment_target = '7.1'
 
   s.source_files = 'DRGrowingLabel/Classes/**/*'
   
